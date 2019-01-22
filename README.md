@@ -38,5 +38,5 @@ MIT
 
 [//]: #
 [Rafael Damasceno Ferreira]: <mailto: mds_rafinha@hotmail.com>
-[CAGEP]: <mailto: cagep.001@gmail.com>
+[CAGEP]: <https://www.cagep.com.br>
 [phpMailer]: <https://github.com/PHPMailer/PHPMailer> 
