@@ -1,0 +1,26 @@
+{
+    "name": "rafaeldms/notification",
+    "description": "This is a library that user composer as the basis for generating email notification.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rafael Damasceno",
+            "email": "mds_rafinha@hotmail.com",
+			"homepage": "https://www.cagep.com.br",
+			"role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpmailer/phpmailer": "6.0.1"
+    },
+	"config": {
+		"vendor-dir": "lib_ext"
+    },
+    "autoload": {
+        "psr-4": {
+            "Notification\\": "_app"
+        }
+    }
+}
