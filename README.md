@@ -25,7 +25,7 @@ $email-> sendEmail ("Subject", "Content", "reply@email.com", "Replay Name", "add
 Note that the entire configuration of sending the email is using the magic method builder! Once you've invoked the constructor method within your application, your system will be able to fire the shots.
 
 ### Developers
-* [Rafael Damasceno Ferreira] - Developer of this library and Developer of the Library and in [CAGEP] - Consultancy and Advice in Public Management!
+* [Rafael Damasceno Ferreira] - Developer of this library and Developer of the Library and in [CAGEP - Developer] - Consultancy and Advice in Public Management!
 * [CAGEP] - Consulting and Advisory in Public Management
 * [phpMailer] - Lib to send Email
 
@@ -38,5 +38,6 @@ MIT
 
 [//]: #
 [Rafael Damasceno Ferreira]: <mailto: mds_rafinha@hotmail.com>
+[CAGEP - Developer]: <https://www.cagep.com.br/profissional/rafael-damasceno-ferreira>
 [CAGEP]: <https://www.cagep.com.br>
 [phpMailer]: <https://github.com/PHPMailer/PHPMailer> 
